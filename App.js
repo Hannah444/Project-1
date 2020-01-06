@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './assests_img/gci_logo';
+import logo from './assests img/gci logo';
 import './App.css';
 
 function App() {
